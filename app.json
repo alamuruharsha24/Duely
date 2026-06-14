@@ -9,7 +9,7 @@
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "backgroundColor": "#FFFFFF",
+      "backgroundColor": "#FAFAF7",
       "resizeMode": "contain"
     },
     "ios": {
@@ -21,7 +21,7 @@
       }
     },
     "android": {
-      "package": "com.financeledger.app",
+      "package": "com.duely.ledger",
       "googleServicesFile": "./google-services.json",
       "adaptiveIcon": {
         "backgroundColor": "#FFFFFF",
