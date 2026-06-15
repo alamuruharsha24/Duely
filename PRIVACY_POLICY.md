@@ -1,33 +1,47 @@
-# Privacy Policy for Duely
+# Privacy Policy — Duely
 
-Duely is a money-lending ledger app that helps users manage customers, loans, repayments, dues, and collection records.
+_Last updated: 15 June 2026_
 
-## Information We Collect
+Duely ("the app") is a personal lending ledger for recording customers,
+loans, and daily collections. This policy explains how your data is handled.
 
-Duely may collect and store information entered by the user, such as customer details, loan records, repayment details, due dates, and related ledger information.
+## Data stored only on your device
 
-## How We Use Information
+All data you enter — customer names, phone numbers, loan amounts, repayment
+records, due dates, and notes — is stored **locally on your device** only.
+Duely does not run servers that receive your data, and does not transmit this
+information off your device.
 
-The information is used only to provide app features such as loan tracking, customer management, repayment history, and due monitoring.
+## Contacts
 
-## Data Security
+With your permission, Duely can read your device contacts so you can quickly
+add a customer's name and phone number. Contact data is used **only on the
+device** to fill in customer details. It is never uploaded, shared, or sold.
 
-We take reasonable steps to protect user data. Users are responsible for keeping their account and device secure.
+## SMS
 
-## Data Sharing
+Duely can send payment-reminder SMS messages to your customers. These are
+sent only when you choose to, using your device's SMS. Duely does **not**
+read, collect, or store your incoming or existing SMS messages.
 
-Duely does not sell user data. We do not share personal data with third parties except when required by law or necessary to operate the app.
+## Data we do NOT collect
 
-## User Control
+- We do not collect, transmit, or store your data on any server.
+- We do not share or sell any data to third parties.
+- We use no advertising, analytics, or tracking services.
 
-Users can manage, update, or delete their records inside the app where available.
+## Your control
+
+Your data lives on your device. You can export a backup or permanently clear
+all data at any time from the app's Profile screen. Uninstalling the app
+removes all locally stored data.
+
+## Permissions used
+
+- **Contacts (read):** to add customers from your address book.
+- **Send SMS:** to send payment reminders you initiate.
+- **Vibrate:** for in-app haptic feedback.
 
 ## Contact
 
-For privacy-related questions, contact:
-
-vennelaalamur@gmail.com
-
-## Updates
-
-This Privacy Policy may be updated from time to time. Updates will be posted on this page.
+Questions about this policy: vennelaalamur@gmail.com
